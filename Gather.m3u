@@ -869,6 +869,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-name="Taiwan+" group-title="YouTube「P」",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-name="Top Hits 2023" group-title="YouTube「P」",Top Hits 2023
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000552/ei/COFiZcvRGIT02roPqOSxmA0/ip/223.16.10.147/id/lVmOUVRDKE8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/hk/siu/1/spc/UWF9f83M7303sjCXjsXVE1yQt6ryeowuVCtl8-NPRlO8Ilz8BmdW7Qg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgOpmfsCPmkYrdJ_goBk8U8MF9DRpywkSihOeA1a49LqwCIQDwE7e9ONbosFmgeV7YGp0_p9BK-aGAjy9A5z3o8vZXhA%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="港澳台「P」",香港国际财经
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-name="香港开电视" group-title="港澳台「P」",HOY TV
