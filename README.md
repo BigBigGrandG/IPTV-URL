@@ -16,7 +16,7 @@
             </svg>
         </a>个人自用源
         </h4>
-        <p dir="auto"><code>https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/main/Gather.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;个人自用源</p>
+        <p dir="auto"><code>https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;个人自用源</p>
         </a>Ftindy精选
         </h4>
         <p dir="auto"><code>https://goodiptv.vercel.app/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
